@@ -182,9 +182,9 @@
     "learnMore": "Mehr erfahren",
     "madeWith": "Erstellt mit",
     "team": "Vom SolaChat-Team",
-    "rightsReserved": "Alle Rechte vorbehalten"
+    "rightsReserved": "Alle Rechte vorbehalten",
+    "translations": "Übersetzungen"
   },
-
   "step1": "Entdecken Sie das Projekt und wählen Sie einen Bereich aus, den Sie verbessern oder erweitern möchten.",
   "step2": "Besprechen Sie Ihre Ideen, indem Sie ein Problem eröffnen oder unseren Community-Kanälen beitreten.",
   "step3": "Verbessern Sie Ihren Beitrag, indem Sie Code, Design oder Dokumentation verbessern.",
@@ -451,13 +451,6 @@
   "addParticipants": "Teilnehmer hinzufügen",
   "invitePrompt": "Wen möchten Sie einladen?",
   "server_status": {
-    "title": "Serverstatus",
-    "online": "Server ist online",
-    "offline": "Server ist offline",
-    "version": "Version",
-    "timestamp": "Zuletzt geprüft"
-  },
-  "server_status": {
     "page_title": "Serverstatus",
     "all_operational": "Alle Systeme sind betriebsbereit",
     "server_unreachable": "Server ist nicht erreichbar. Bitte versuchen Sie es später erneut.",
@@ -471,6 +464,42 @@
       "partial": "Teilweiser Ausfall",
       "down": "Ausgefallen",
       "error": "Nicht verfügbar"
+    }
+  },
+  "translations": {
+    "title": "Übersetzungen",
+    "heading": "Hilf mit, SolaChat zu übersetzen",
+    "intro1": "SolaChat ist ein dezentraler Messenger mit Fokus auf Privatsphäre. Um Nutzer weltweit zu erreichen, setzen wir auf i18n und laden die Community zur Übersetzung ein.",
+    "intro2": "Alle Übersetzungen werden über ein öffentliches GitHub-Repository verwaltet. Forke das Repo, übersetze die JSON-Datei und erstelle einen Pull-Request.",
+    "license": "Übersetzungsdateien sind unter der MIT-Lizenz verfügbar – du kannst sie frei verwenden, ändern und weitergeben, solange der Lizenzhinweis enthalten bleibt.",
+    "styleGuide": {
+      "title": "Übersetzungsstil-Richtlinien",
+      "items": {
+        "1": {
+          "title": "1. Konsistent",
+          "desc": "Begriffe sollten überall gleich benannt sein, z. B. 'Senden', 'Profil', 'Bearbeiten' – auf allen Plattformen."
+        },
+        "2": {
+          "title": "2. Natürlich",
+          "desc": "Übersetze die Bedeutung, nicht Wort für Wort. Nutze Formulierungen, die sich flüssig lesen lassen."
+        },
+        "3": {
+          "title": "3. Standard",
+          "desc": "Vermeide unnötig komplexe Begriffe. Verwende gängige Formulierungen, die Benutzer erwarten."
+        },
+        "4": {
+          "title": "4. Schön",
+          "desc": "Die Sprache soll wie aus deiner Region klingen – sauber, korrekt und ohne Abkürzungen."
+        },
+        "5": {
+          "title": "5. Es muss passen",
+          "desc": "Achte darauf, dass Texte in Buttons und Labels passen. Kürze ggf. oder passe den Kontext an."
+        }
+      }
+    },
+    "cta": {
+      "text": "Möchtest du helfen, SolaChat zugänglicher zu machen?",
+      "button": "Auf GitHub mithelfen"
     }
   }
 }

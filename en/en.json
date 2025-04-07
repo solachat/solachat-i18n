@@ -182,7 +182,8 @@
     "learnMore": "Learn More",
     "madeWith": "Made with",
     "team": "by SolaChat Team",
-    "rightsReserved": "All rights reserved"
+    "rightsReserved": "All rights reserved",
+    "translations": "Translations"
   },
   "aboutSolacoinTitle": "About SolaCoin",
   "welcome": "Welcome to the official website of SolaChat",
@@ -465,13 +466,6 @@
   "addParticipants": "Add participants",
   "invitePrompt": "Who would you like to invite?",
   "server_status": {
-    "title": "Server Status",
-    "online": "Server is Online",
-    "offline": "Server is Offline",
-    "version": "Version",
-    "timestamp": "Last checked"
-  },
-  "server_status": {
     "page_title": "Server Status",
     "all_operational": "All systems are operational",
     "server_unreachable": "Server is unreachable. Please try again later.",
@@ -485,6 +479,42 @@
       "partial": "Partial Outage",
       "down": "Down",
       "error": "Unavailable"
+    }
+  },
+  "translations": {
+    "title": "Translations",
+    "heading": "Help Translate SolaChat",
+    "intro1": "We've built SolaChat as a decentralized, privacy-focused messenger...",
+    "intro2": "All translations are managed through a public GitHub repository...",
+    "license": "Translation files are licensed under the MIT License...",
+    "styleGuide": {
+      "title": "SolaChat Translation Style Guide",
+      "items": {
+        "1": {
+          "title": "1. Consistent",
+          "desc": "Use the same term for the same thing throughout the app..."
+        },
+        "2": {
+          "title": "2. Natural",
+          "desc": "Translate meanings, not just words..."
+        },
+        "3": {
+          "title": "3. Default",
+          "desc": "Avoid overcomplicating translations..."
+        },
+        "4": {
+          "title": "4. Beautiful",
+          "desc": "A great translation sounds like it was written by a local..."
+        },
+        "5": {
+          "title": "5. It Must Fit",
+          "desc": "Always make sure the translated text fits in buttons..."
+        }
+      }
+    },
+    "cta": {
+      "text": "Want to help make SolaChat more accessible?",
+      "button": "Contribute on GitHub"
     }
   }
 }

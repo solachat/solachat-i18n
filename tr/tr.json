@@ -182,7 +182,8 @@
     "learnMore": "Daha Fazla Bilgi Edinin",
     "madeWith": "Şununla Yapıldı",
     "team": "SolaChat Ekibi Tarafından",
-    "rightsReserved": "Tüm hakları saklıdır"
+    "rightsReserved": "Tüm hakları saklıdır",
+    "translations": "Çeviriler"
   },
   "aboutSolacoinTitle": "SolaCoin Hakkında",
   "welcome": "SolaChat'in resmi web sitesine hoş geldiniz",
@@ -465,13 +466,6 @@
   "addParticipants": "Katılımcı ekle",
   "invitePrompt": "Kimi davet etmek istersiniz?",
   "server_status": {
-    "title": "Sunucu Durumu",
-    "online": "Sunucu Çevrimiçi",
-    "offline": "Sunucu Çevrimdışı",
-    "version": "Sürüm",
-    "timestamp": "Son kontrol"
-  },
-  "server_status": {
     "page_title": "Sunucu Durumu",
     "all_operational": "Tüm sistemler çalışıyor",
     "server_unreachable": "Sunucuya ulaşılamıyor. Lütfen daha sonra tekrar deneyin.",
@@ -485,6 +479,42 @@
       "partial": "Kısmi Kesinti",
       "down": "Kapalı",
       "error": "Kullanılamıyor"
+    }
+  },
+  "translations": {
+    "title": "Çeviriler",
+    "heading": "SolaChat’i çevirmeye yardım et",
+    "intro1": "SolaChat, gizliliğe odaklanan merkeziyetsiz bir mesajlaşma uygulamasıdır. Dünya çapında erişim için i18n destekliyoruz ve topluluğu katkıya davet ediyoruz.",
+    "intro2": "Tüm çeviriler halka açık bir GitHub deposunda yönetilir. Depoyu çatallayıp JSON dosyasını çevirin ve bir pull request gönderin.",
+    "license": "Çeviri dosyaları MIT lisansı altındadır. Kaynağı belirtmeniz şartıyla kullanabilir, değiştirebilir ve dağıtabilirsiniz.",
+    "styleGuide": {
+      "title": "Çeviri Stili Kılavuzu",
+      "items": {
+        "1": {
+          "title": "1. Tutarlı",
+          "desc": "Aynı terimler her yerde aynı şekilde çevrilmelidir. Örneğin: 'Gönder', 'Düzenle', 'Profil'."
+        },
+        "2": {
+          "title": "2. Doğal",
+          "desc": "Anlamı çevirin, kelimesi kelimesine değil. Anlaşılır ve sade ifadeler kullanın."
+        },
+        "3": {
+          "title": "3. Varsayılan",
+          "desc": "Karmaşıklaştırmayın. Kullanıcıların alışık olduğu ifadeleri tercih edin."
+        },
+        "4": {
+          "title": "4. Güzel",
+          "desc": "Yerel gibi hissettiren, doğru ve sade bir dil kullanın. Kısaltmalardan kaçının."
+        },
+        "5": {
+          "title": "5. Uyumlu olmalı",
+          "desc": "Metinlerin arayüze sığdığından emin olun. Gerekirse kısaltın veya uyarlayın."
+        }
+      }
+    },
+    "cta": {
+      "text": "SolaChat’i daha erişilebilir kılmak ister misiniz?",
+      "button": "GitHub’da katkıda bulunun"
     }
   }
 }

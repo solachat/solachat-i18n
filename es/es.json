@@ -182,7 +182,8 @@
     "learnMore": "Más información",
     "madeWith": "Hecho con",
     "team": "Por el equipo de SolaChat",
-    "rightsReserved": "Todos los derechos reservados"
+    "rightsReserved": "Todos los derechos reservados",
+    "translations": "Traducciones"
   },
   "aboutSolacoinTitle": "Acerca de SolaCoin",
   "welcome": "Bienvenido al sitio web oficial de SolaChat",
@@ -474,13 +475,6 @@
   "addParticipants": "Añadir participantes",
   "invitePrompt": "¿A quién quieres invitar?",
   "server_status": {
-    "title": "Estado del servidor",
-    "online": "El servidor está en línea",
-    "offline": "El servidor está desconectado",
-    "version": "Versión",
-    "timestamp": "Última comprobación"
-  },
-  "server_status": {
     "page_title": "Servidor Estado",
     "all_operational": "Todos los sistemas están operativos",
     "server_unreachable": "El servidor no está disponible. Inténtelo de nuevo más tarde",
@@ -494,6 +488,42 @@
       "partial": "Interrupción parcial",
       "down": "Inactivo",
       "error": "No disponible"
+    }
+  },
+  "translations": {
+    "title": "Traducciones",
+    "heading": "Ayuda a traducir SolaChat",
+    "intro1": "SolaChat es un mensajero descentralizado enfocado en la privacidad. Para llegar a usuarios de todo el mundo, usamos i18n e invitamos a la comunidad a traducir.",
+    "intro2": "Todas las traducciones se gestionan a través de un repositorio público en GitHub. Haz un fork, traduce el archivo JSON y envía un pull request.",
+    "license": "Los archivos de traducción están bajo licencia MIT. Puedes usarlos, modificarlos y distribuirlos libremente incluyendo el aviso de licencia.",
+    "styleGuide": {
+      "title": "Guía de estilo de traducción",
+      "items": {
+        "1": {
+          "title": "1. Consistente",
+          "desc": "Usa los mismos términos en todas partes, como 'Enviar', 'Perfil', 'Editar'."
+        },
+        "2": {
+          "title": "2. Natural",
+          "desc": "Traduce el significado, no palabra por palabra. Utiliza frases claras y comunes."
+        },
+        "3": {
+          "title": "3. Predeterminado",
+          "desc": "No compliques. Usa expresiones comunes que ya conocen los usuarios."
+        },
+        "4": {
+          "title": "4. Bonito",
+          "desc": "Haz que el texto suene nativo y natural. Respeta gramática y evita abreviaciones."
+        },
+        "5": {
+          "title": "5. Que encaje",
+          "desc": "Asegúrate que el texto quepa en botones y títulos. Acorta o ajusta si es necesario."
+        }
+      }
+    },
+    "cta": {
+      "text": "¿Quieres ayudar a hacer SolaChat más accesible?",
+      "button": "Contribuir en GitHub"
     }
   }
 }

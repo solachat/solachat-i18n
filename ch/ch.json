@@ -55,7 +55,8 @@
     "learnMore": "了解更多",
     "madeWith": "制作于",
     "team": "SolaChat 团队",
-    "rightsReserved": "版权所有"
+    "rightsReserved": "版权所有",
+    "translations": "翻译"
   },
   "report": "报告",
   "passwordsDoNotMatch": "密码不匹配",
@@ -309,5 +310,41 @@
   "username_invalid_format": "无效的用户名格式",
   "invalid_username": "无效的用户名",
   "username_taken": "用户名已被占用",
-  "username_available": "用户名可用"
+  "username_available": "用户名可用",
+  "translations": {
+    "title": "翻译",
+    "heading": "帮助翻译 SolaChat",
+    "intro1": "SolaChat 是一个去中心化、注重隐私的消息应用。为了全球用户，我们支持 i18n，并欢迎社区帮助翻译。",
+    "intro2": "所有翻译均通过公开的 GitHub 仓库管理。你可以 fork 仓库，翻译 JSON 文件，并提交 pull request。",
+    "license": "翻译文件使用 MIT 协议授权，你可以自由使用、修改和分发，只需保留原始许可声明。",
+    "styleGuide": {
+      "title": "翻译风格指南",
+      "items": {
+        "1": {
+          "title": "1. 一致性",
+          "desc": "相同术语在整个应用中保持一致，如“发送”、“编辑”、“资料”等。"
+        },
+        "2": {
+          "title": "2. 自然",
+          "desc": "翻译应贴近母语表达，避免生硬直译。"
+        },
+        "3": {
+          "title": "3. 默认",
+          "desc": "避免复杂表达，优先使用用户熟悉的常见用语。"
+        },
+        "4": {
+          "title": "4. 优美",
+          "desc": "语言应自然流畅、符合语法，避免使用缩写。"
+        },
+        "5": {
+          "title": "5. 适配界面",
+          "desc": "确保翻译后的文本能适应按钮、标题等界面元素，必要时进行调整。"
+        }
+      }
+    },
+    "cta": {
+      "text": "希望帮助 SolaChat 变得更易用？",
+      "button": "前往 GitHub 贡献"
+    }
+  }
 }
