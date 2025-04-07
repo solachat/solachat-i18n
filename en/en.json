@@ -487,6 +487,11 @@
     "intro1": "We've built SolaChat as a decentralized, privacy-focused messenger...",
     "intro2": "All translations are managed through a public GitHub repository...",
     "license": "Translation files are licensed under the MIT License...",
+    "repoBlock": {
+      "title": "Translation Repository",
+      "description": "All SolaChat interface translations are maintained in a public GitHub repository. You can contribute or view progress there.",
+      "button": "View Repository"
+    },
     "styleGuide": {
       "title": "SolaChat Translation Style Guide",
       "items": {

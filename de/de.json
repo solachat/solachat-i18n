@@ -472,6 +472,11 @@
     "intro1": "SolaChat ist ein dezentraler Messenger mit Fokus auf Privatsphäre. Um Nutzer weltweit zu erreichen, setzen wir auf i18n und laden die Community zur Übersetzung ein.",
     "intro2": "Alle Übersetzungen werden über ein öffentliches GitHub-Repository verwaltet. Forke das Repo, übersetze die JSON-Datei und erstelle einen Pull-Request.",
     "license": "Übersetzungsdateien sind unter der MIT-Lizenz verfügbar – du kannst sie frei verwenden, ändern und weitergeben, solange der Lizenzhinweis enthalten bleibt.",
+    "repoBlock": {
+      "title": "Übersetzungs-Repository",
+      "description": "Alle SolaChat-Oberflächenübersetzungen werden in einem öffentlichen GitHub-Repository gepflegt. Du kannst mitwirken oder den Fortschritt verfolgen.",
+      "button": "Repository anzeigen"
+    },
     "styleGuide": {
       "title": "Übersetzungsstil-Richtlinien",
       "items": {

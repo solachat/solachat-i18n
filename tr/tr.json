@@ -487,6 +487,11 @@
     "intro1": "SolaChat, gizliliğe odaklanan merkeziyetsiz bir mesajlaşma uygulamasıdır. Dünya çapında erişim için i18n destekliyoruz ve topluluğu katkıya davet ediyoruz.",
     "intro2": "Tüm çeviriler halka açık bir GitHub deposunda yönetilir. Depoyu çatallayıp JSON dosyasını çevirin ve bir pull request gönderin.",
     "license": "Çeviri dosyaları MIT lisansı altındadır. Kaynağı belirtmeniz şartıyla kullanabilir, değiştirebilir ve dağıtabilirsiniz.",
+    "repoBlock": {
+      "title": "Çeviri Deposu",
+      "description": "Tüm SolaChat arayüz çevirileri herkese açık bir GitHub deposunda tutulur. Katkıda bulunabilir veya ilerlemeyi görebilirsiniz.",
+      "button": "Depoyu Görüntüle"
+    },
     "styleGuide": {
       "title": "Çeviri Stili Kılavuzu",
       "items": {

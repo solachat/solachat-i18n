@@ -496,6 +496,11 @@
     "intro1": "SolaChat es un mensajero descentralizado enfocado en la privacidad. Para llegar a usuarios de todo el mundo, usamos i18n e invitamos a la comunidad a traducir.",
     "intro2": "Todas las traducciones se gestionan a través de un repositorio público en GitHub. Haz un fork, traduce el archivo JSON y envía un pull request.",
     "license": "Los archivos de traducción están bajo licencia MIT. Puedes usarlos, modificarlos y distribuirlos libremente incluyendo el aviso de licencia.",
+    "repoBlock": {
+      "title": "Repositorio de Traducción",
+      "description": "Todas las traducciones de la interfaz de SolaChat se gestionan en un repositorio público de GitHub. Puedes contribuir o ver el progreso allí.",
+      "button": "Ver Repositorio"
+    },
     "styleGuide": {
       "title": "Guía de estilo de traducción",
       "items": {

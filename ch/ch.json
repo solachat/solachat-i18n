@@ -58,6 +58,37 @@
     "rightsReserved": "版权所有",
     "translations": "翻译"
   },
+  "feedback": {
+    "title": "反馈",
+    "bug": "报告错误",
+    "feature": "建议新功能",
+    "other": "其他",
+    "userId": "您的ID",
+    "subject": "主题",
+    "description": "详细描述",
+    "attachments": "附件",
+    "uploadFiles": "选择文件",
+    "filesSelected": "个文件已选择",
+    "submit": "提交请求",
+    "hide_details": "隐藏"
+  },
+  "vacancies": {
+    "title": "加入我们",
+    "read_more": "了解更多",
+    "technologies": "使用的技术",
+    "requirements": "职位要求",
+    "apply_all": "申请职位",
+    "apply_title": "职位申请",
+    "select_vacancy": "选择职位",
+    "full_name": "全名",
+    "contact_type": "联系方式",
+    "contact_value": "联系信息",
+    "expected_salary": "期望薪资",
+    "available_from": "可开始工作时间",
+    "about_you": "自我介绍",
+    "submit_application": "提交申请",
+    "hide_details": "隐藏"
+  },
   "report": "报告",
   "passwordsDoNotMatch": "密码不匹配",
   "continueWithTelegram": "使用 Telegram 登录",
@@ -311,12 +342,23 @@
   "invalid_username": "无效的用户名",
   "username_taken": "用户名已被占用",
   "username_available": "用户名可用",
+  "team": {
+    "title": "我们的团队"
+  },
+  "partners": {
+    "title": "我们的合作伙伴"
+  },
   "translations": {
     "title": "翻译",
     "heading": "帮助翻译 SolaChat",
     "intro1": "SolaChat 是一个去中心化、注重隐私的消息应用。为了全球用户，我们支持 i18n，并欢迎社区帮助翻译。",
     "intro2": "所有翻译均通过公开的 GitHub 仓库管理。你可以 fork 仓库，翻译 JSON 文件，并提交 pull request。",
     "license": "翻译文件使用 MIT 协议授权，你可以自由使用、修改和分发，只需保留原始许可声明。",
+    "repoBlock": {
+      "title": "翻译仓库",
+      "description": "所有 SolaChat 的界面翻译都托管在 GitHub 公共仓库中。你可以贡献或查看进度。",
+      "button": "查看仓库"
+    },
     "styleGuide": {
       "title": "翻译风格指南",
       "items": {
