@@ -276,7 +276,7 @@
     "11": "ноември",
     "12": "декември"
   },
-  "date_format": "{{месец}} {{ден}}",
+  "date_format": "{{month}} {{day}}",
   "date_format_with_year": "{{month}} {{day}}, {{year}}",
   "cta": {
     "title": "Добре дошли в SolaChat",
