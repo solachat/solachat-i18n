@@ -330,8 +330,8 @@
     "documents": "Belgeler",
     "signIn": "Oturum Aç",
     "signUp": "Kaydol",
-    "apps": "Uygulamalar",
-    "faq": "SSS"
+    "apps": "Apps",
+    "faq": "FAQ"
   },
   "team": {
     "title": "Ekibimiz"
@@ -521,5 +521,28 @@
       "text": "SolaChat’i daha erişilebilir kılmak ister misiniz?",
       "button": "GitHub’da katkıda bulunun"
     }
-  }
+  },
+  "media_viewer": {
+    "description": {
+      "private": "Profil fotoğrafı",
+      "group": "Grup fotoğrafı"
+    }
+  },
+  "data_storage": "Veri ve Depolama",
+  "data_storage_info": "SolaChat yerel depolama alanı",
+  "clear_cache_except_keys": "Önbelleği Temizle",
+  "confirm_clear_title": "Yerel önbellek temizlensin mi?",
+  "confirm_clear_description": "Şifreleme anahtarları dışında tüm önbellek verilerini silmek istediğinizden emin misiniz?",
+  "cancel": "İptal",
+  "clear": "Temizle",
+  "cache_clear_warning_title": "Temizlerken dikkatli olun",
+  "cache_clear_warning_desc": "Önbelleği silmek, sohbetlerin, medyanın yüklenme hızını ve çevrimdışı çalışmayı etkileyebilir.",
+  "storage_messages": "Mesajlar",
+  "storage_media": "Medya önbelleği",
+  "storage_users": "Kullanıcılar",
+  "storage_keys": "Anahtarlar",
+  "storage_chats": "Sohbetler",
+  "storage_decryptedMessages": "Şifre çözülmüş mesajlar",
+  "no_data": "Kayıtlı veriniz yok",
+  "record_forms": ["kayıt", "kayıtlar", "kayıt"]
 }

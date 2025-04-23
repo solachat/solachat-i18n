@@ -258,7 +258,7 @@
   "hours_ago_one": "{{count}} hour ago",
   "hours_ago_other": "{{count}} hours ago",
   "last_seen_yesterday": "yesterday at {{time}}",
-"logout": "Log Out",
+  "logout": "Log Out",
   "totp_alert_title": "Secure your account with TOTP",
   "totp_alert_description": "Enable Two-Factor Authentication (TOTP) to enhance security and simplify login.",
   "totp_alert_button": "Set up TOTP",
@@ -410,8 +410,8 @@
   "about_me_description": "Any details, such as age, occupation or city.",
   "example_about_me": "Example: Solidity dev, DeFi enthusiast, NFT artist",
   "username_min_length": "Username must be at least 5 characters long",
-    "username_max_length": "Username must be no more than 30 characters long",
-    "username_invalid_format": "Invalid username format",
+  "username_max_length": "Username must be no more than 30 characters long",
+  "username_invalid_format": "Invalid username format",
   "invalid_username": "Invalid username",
   "username_taken": "Username is already taken",
   "username_available": "Username is available",
@@ -521,5 +521,28 @@
       "text": "Want to help make SolaChat more accessible?",
       "button": "Contribute on GitHub"
     }
-  }
+  },
+  "media_viewer": {
+    "description": {
+      "private": "Profile picture",
+      "group": "Group photo"
+    }
+  },
+  "data_storage": "Data Storage",
+  "data_storage_info": "Local SolaChat Storage",
+  "clear_cache_except_keys": "Clear cache",
+  "confirm_clear_title": "Clear local cache?",
+  "confirm_clear_description": "Are you sure you want to delete all cached data except encryption keys?",
+  "cancel": "Cancel",
+  "clear": "Clear",
+  "cache_clear_warning_title": "Be careful when clearing",
+  "cache_clear_warning_desc": "Clearing cache may affect chat loading speed, media, and offline usage.",
+  "storage_messages": "Messages",
+  "storage_media": "Media Cache",
+  "storage_users": "Users",
+  "storage_keys": "Keys",
+  "storage_chats": "Chats",
+  "storage_decryptedMessages": "Decrypted Messages",
+  "no_data": "You have no stored data",
+  "record_forms": ["item", "items", "items"]
 }

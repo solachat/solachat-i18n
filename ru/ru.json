@@ -605,5 +605,28 @@
       "text": "Хотите помочь сделать SolaChat доступнее?",
       "button": "Внести вклад на GitHub"
     }
-  }
+  },
+  "media_viewer": {
+    "description": {
+      "private": "Фото профиля",
+      "group": "Фото группы"
+    }
+  },
+  "data_storage": "Данные и память",
+  "data_storage_info": "Локальное хранилище SolaChat",
+  "clear_cache_except_keys": "Очистить кэш",
+  "confirm_clear_title": "Очистить локальный кэш?",
+  "confirm_clear_description": "Вы уверены, что хотите удалить все данные кэша, кроме ключей шифрования?",
+  "cancel": "Отмена",
+  "clear": "Очистить",
+  "cache_clear_warning_title": "Будь осторожен при очистке",
+  "cache_clear_warning_desc": "Удаление кэша может повлиять на скорость загрузки чатов, медиа и работу оффлайн.",
+  "storage_messages": "Сообщения",
+  "storage_media": "Кеш медиафайлов",
+  "storage_users": "Пользователи",
+  "storage_keys": "Ключи",
+  "storage_chats": "Чаты",
+  "storage_decryptedMessages": "Расшифрованные сообщения",
+  "no_data": "У вас нет сохранённых данных",
+  "record_forms": ["запись", "записи", "записей"]
 }

@@ -388,5 +388,28 @@
       "text": "希望帮助 SolaChat 变得更易用？",
       "button": "前往 GitHub 贡献"
     }
-  }
+  },
+  "media_viewer": {
+    "description": {
+      "private": "个人头像",
+      "group": "群组头像"
+    }
+  },
+  "data_storage": "数据与存储",
+  "data_storage_info": "SolaChat 本地存储",
+  "clear_cache_except_keys": "清除缓存",
+  "confirm_clear_title": "清除本地缓存？",
+  "confirm_clear_description": "您确定要删除除加密密钥以外的所有缓存数据吗？",
+  "cancel": "取消",
+  "clear": "清除",
+  "cache_clear_warning_title": "清除时请小心",
+  "cache_clear_warning_desc": "清除缓存可能会影响聊天、媒体加载速度以及离线功能。",
+  "storage_messages": "消息",
+  "storage_media": "媒体缓存",
+  "storage_users": "用户",
+  "storage_keys": "密钥",
+  "storage_chats": "聊天",
+  "storage_decryptedMessages": "已解密消息",
+  "no_data": "您没有保存的数据",
+  "record_forms": ["条记录", "条记录", "条记录"]
 }

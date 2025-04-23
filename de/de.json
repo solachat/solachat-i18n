@@ -506,5 +506,28 @@
       "text": "Möchtest du helfen, SolaChat zugänglicher zu machen?",
       "button": "Auf GitHub mithelfen"
     }
-  }
+  },
+  "media_viewer": {
+    "description": {
+      "private": "Profilfoto",
+      "group": "Gruppenfoto"
+    }
+  },
+  "data_storage": "Daten und Speicher",
+  "data_storage_info": "Lokaler Speicher von SolaChat",
+  "clear_cache_except_keys": "Cache löschen",
+  "confirm_clear_title": "Lokalen Cache löschen?",
+  "confirm_clear_description": "Sind Sie sicher, dass Sie alle Cache-Daten außer den Verschlüsselungsschlüsseln löschen möchten?",
+  "cancel": "Abbrechen",
+  "clear": "Löschen",
+  "cache_clear_warning_title": "Beim Löschen vorsichtig sein",
+  "cache_clear_warning_desc": "Das Löschen des Caches kann die Ladegeschwindigkeit von Chats, Medien und den Offline-Betrieb beeinträchtigen.",
+  "storage_messages": "Nachrichten",
+  "storage_media": "Medien-Cache",
+  "storage_users": "Benutzer",
+  "storage_keys": "Schlüssel",
+  "storage_chats": "Chats",
+  "storage_decryptedMessages": "Entschlüsselte Nachrichten",
+  "no_data": "Keine gespeicherten Daten vorhanden",
+  "record_forms": ["Eintrag", "Einträge", "Einträgen"]
 }

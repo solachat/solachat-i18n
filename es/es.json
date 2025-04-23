@@ -339,8 +339,8 @@
     "documents": "Documentos",
     "signIn": "Iniciar sesión",
     "signUp": "Registrarse",
-    "apps": "Aplicaciones",
-    "faq": "Preguntas frecuentes"
+    "apps": "Apps",
+    "faq": "FAQ"
   },
   "team": {
     "title": "Nuestro equipo"
@@ -530,5 +530,28 @@
       "text": "¿Quieres ayudar a hacer SolaChat más accesible?",
       "button": "Contribuir en GitHub"
     }
-  }
+  },
+  "media_viewer": {
+    "description": {
+      "private": "Foto de perfil",
+      "group": "Foto del grupo"
+    }
+  },
+  "data_storage": "Datos y almacenamiento",
+  "data_storage_info": "Almacenamiento local de SolaChat",
+  "clear_cache_except_keys": "Borrar caché",
+  "confirm_clear_title": "¿Borrar la caché local?",
+  "confirm_clear_description": "¿Estás seguro de que quieres eliminar todos los datos de la caché excepto las claves de cifrado?",
+  "cancel": "Cancelar",
+  "clear": "Borrar",
+  "cache_clear_warning_title": "Ten cuidado al borrar",
+  "cache_clear_warning_desc": "Borrar la caché puede afectar la velocidad de carga de los chats, los medios y el funcionamiento sin conexión.",
+  "storage_messages": "Mensajes",
+  "storage_media": "Caché de medios",
+  "storage_users": "Usuarios",
+  "storage_keys": "Claves",
+  "storage_chats": "Chats",
+  "storage_decryptedMessages": "Mensajes descifrados",
+  "no_data": "No tienes datos guardados",
+  "record_forms": ["registro", "registros", "registros"]
 }
